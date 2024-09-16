@@ -1,6 +1,6 @@
 # GitHub-Activity
 
-CLI to fetch GitHub user activity.
+CLI to fetch GitHub user activity , suggested by roadmap.sh , you can check it out from here : https://roadmap.sh/projects/github-user-activity
 
 ## Description
 
